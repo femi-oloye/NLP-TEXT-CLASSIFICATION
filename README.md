@@ -23,6 +23,9 @@ Recall        93.2%
 
 This project was built using Hugging Face Transformers and the IMDB dataset. Special thanks to open-source contributor
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femi-oloye/NLP-TEXT-CLASSIFICATION/blob/main/NLP.ipynb)
+
+
 
 
 
